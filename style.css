@@ -53,7 +53,7 @@
         main {
             max-width: 60rem;
             margin: 0 auto;
-            padding: 3rem 2rem 3rem 10%;
+            padding: 3rem 2rem 3rem 2rem;
         }
 
         .two-column {
@@ -125,3 +125,4 @@
             font-size: 14px;
             color: var(--text-sub);
         }
+
